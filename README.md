@@ -82,15 +82,4 @@ The application runs at `http://localhost:3000`.
 
 ---
 
-## 📖 Citation
 
-If you use VeriRAG in your research, please cite:
-
-```bibtex
-@article{verirag2026,
-  title={VeriRAG: Fine-Grained Atomic Claim Verification for Retrieval-Augmented Generation},
-  author={VeriRAG Research Team},
-  journal={IEEE / ACM Transactions on Natural Language Processing & AI Research},
-  year={2026}
-}
-```
